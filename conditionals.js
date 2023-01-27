@@ -3,12 +3,12 @@ Replace the '__' with comparison operators to make the following statements true
 Try to use a different comparison operator each time
 */ 
 console.log("The following lines should say TRUE")
-// console.log(45 __ 45)
-// console.log(-9 __ 9)
-// console.log(100 __ 100000)
-// console.log(5.6 __ 5.5)
-// console.log("hello" __ "dog")
-// console.log("Danny" __ "Danny")
+// console.log(45 === 45)
+// console.log(-9 < 9)
+// console.log(100 < 100000)
+// console.log(5.6 > 5.5)
+// console.log("hello" !== "dog")
+// console.log("Danny" === "Danny")
 
 
 /* ==== WARM-UP SET 2 ====
@@ -16,11 +16,11 @@ Replace the '__' with comparison operators to make the following statements fals
 Try to use a different comparison operator each time
 */
 console.log("\nThe following lines should say FALSE")
-// console.log(2 __ 10)
-// console.log(22 __ 22)
-// console.log( 0 __ -5)
-// console.log(3.3 __ 3.5)
-// console.log("frog" __ "prince")
+// console.log(2 > 10)
+// console.log(22 !== 22)
+// console.log( 0 < -5)
+// console.log(3.3 === 3.5)
+// console.log("frog" > "prince")
 
 
 console.log("\nExercises start here.")
