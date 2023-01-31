@@ -29,12 +29,12 @@
 
 //Excercise 3
 
-//let secondNumber = 5
-//if (secondNumber / 2 % 0){
- //   console.log('That number is even!')
-//} else { ((secondNumber / 2) % > 0)
-   // console.log('That number is odd')
-//}
+let secondNumber = 5
+if (secondNumber % 2 === 0) {
+   console.log('That number is even!')
+} else {
+    console.log('That number is odd')
+}
 
 //Exercise 4
 
