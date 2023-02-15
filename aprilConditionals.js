@@ -61,13 +61,13 @@
 
 //Exercise 6
 
-let customerPayment = 20
-let totalCheck = 50
+//let customerPayment = 20
+//let totalCheck = 50
 
-if (customerPayment > totalCheck)
-  console.log('Your change is $3.25. Thank you for shopping with us today')
-if (customerPayment < totalCheck)
-  console.log('There is still $2.75 remaining on your balance.')
-if (customerPayment = totalCheck)
+//if (customerPayment > totalCheck)
+  //console.log('Your change is $3.25. Thank you for shopping with us today')
+//if (customerPayment < totalCheck)
+  //console.log('There is still $2.75 remaining on your balance.')
+//if (customerPayment = totalCheck)
   console.log('Thanks and have a nice day!')
 
