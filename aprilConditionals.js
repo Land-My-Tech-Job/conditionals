@@ -69,5 +69,7 @@
 //if (customerPayment < totalCheck)
   //console.log('There is still $2.75 remaining on your balance.')
 //if (customerPayment = totalCheck)
-  console.log('Thanks and have a nice day!')
+  //console.log('Thanks and have a nice day!')
+
+  
 
